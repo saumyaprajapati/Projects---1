@@ -61,47 +61,13 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/dashboard_overview.png" alt="Dashboard Overview – Page 1" width="80%">
+  <img src="screenshots/Dashboard-1.png" alt="Dashboard Overview – Page 1" width="80%">
 </p>
-
-<details>
-  <summary>📸 View More Screenshots</summary>
-  <br>
+<br>
   <p align="center">
-    <img src="docs/screenshots/new_listings_trend.png" alt="New Listings Trend Over Time" width="80%">
+    <img src="screenshots/Dashboard-2
+    .png" alt="New Listings Trend Over Time" width="80%">
   </p>
-  <p align="center">
-    <img src="docs/screenshots/market_lifecycle.png" alt="Market Lifecycle Phases" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/market_share_by_city.png" alt="Market Share by City – Bar Chart" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/superhost_breakdown.png" alt="Superhost vs Non-Superhost Listings" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/cumulative_share.png" alt="Cumulative Listing Share %" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/avg_price_by_type.png" alt="Average Price by Room Type" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/ratings_table.png" alt="City Ratings Table – Accuracy, Cleanliness, Communication" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/paris_deep_dive.png" alt="Paris City Deep Dive" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/mexico_city_ratings.png" alt="Mexico City – Top Rated City" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/covid_impact.png" alt="COVID-19 Impact on Listings" width="80%">
-  </p>
-  <p align="center">
-    <img src="docs/screenshots/property_type_split.png" alt="Property Type Distribution" width="80%">
-  </p>
-</details>
-
 ---
 
 ## 📑 Table of Contents
@@ -561,9 +527,9 @@ Contributions are welcome — whether that's new city data, additional DAX measu
 
 **Prajapati Saumya** — Creator, Data Analyst & Dashboard Designer
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github)](https://github.com/saumyaprajapati)
+[![GitHub](https://img.shields.io/badge/GitHub-saumyaprajapati-181717?style=flat-square&logo=github)](https://github.com/saumyaprajapati)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-prajapati-38b676386/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAUMYA%20PRAJAPATI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-prajapati-38b676386/)
 
 ---
 
@@ -590,13 +556,9 @@ Contributions are welcome — whether that's new city data, additional DAX measu
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/global-airbnb-dashboard/issues">Report Bug</a>
+  <a href="https://github.com/saumyaprajapati/Projects---1/issues">Report Bug</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME/global-airbnb-dashboard/issues">Request Feature</a>
-  ·
-  <a href="docs/DATA_DICTIONARY.md">Data Dictionary</a>
-  ·
-  <a href="docs/INSIGHTS.md">Extended Insights</a>
+  <a href="https://github.com/saumyaprajapati/Projects---1/issues">Request Feature</a>
 </p>
 
 ---
