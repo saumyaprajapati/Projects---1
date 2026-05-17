@@ -67,6 +67,7 @@
   <p align="center">
     <img src="screenshots/Dashboard-2.png" alt="Dashboard Overview - Page 2" width="80%">
   </p>
+
 ---
 
 ## 📑 Table of Contents
