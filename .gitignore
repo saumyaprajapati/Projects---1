@@ -1,0 +1,6 @@
+# Large CSV data files
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
