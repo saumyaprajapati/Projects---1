@@ -65,8 +65,7 @@
 </p>
 <br>
   <p align="center">
-    <img src="screenshots/Dashboard-2
-    .png" alt="New Listings Trend Over Time" width="80%">
+    <img src="screenshots/Dashboard-2.png" alt="Dashboard Overview - Page 2" width="80%">
   </p>
 ---
 
