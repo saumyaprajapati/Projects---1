@@ -302,34 +302,6 @@ RETURN DIVIDE(CurrentYear - PriorYear, PriorYear)
 
 ---
 
-## 📂 Repository Structure
-
-```
-global-airbnb-dashboard/
-├── Global Airbnb Performance.pbix   # Main Power BI report (self-contained)
-├── data/
-│   ├── raw/                         # Original scraped CSV files per city
-│   │   ├── paris_listings.csv
-│   │   ├── new_york_listings.csv
-│   │   ├── sydney_listings.csv
-│   │   └── ...                      # (one file per city)
-│   ├── processed/                   # Cleaned, merged dataset
-│   │   └── airbnb_global_clean.csv
-│   └── README.md                    # Data dictionary
-├── scripts/
-│   ├── data_cleaning.py             # Python EDA and preprocessing script
-│   └── merge_cities.py              # Merges per-city CSVs into one dataset
-├── docs/
-│   ├── screenshots/                 # Dashboard screenshots (used in README)
-│   ├── DATA_DICTIONARY.md           # Column definitions and data types
-│   └── INSIGHTS.md                  # Extended analysis write-up
-├── .gitignore
-├── LICENSE
-└── README.md                        # This file
-```
-
----
-
 ## 📥 Data Sources
 
 The dashboard is built on publicly available **Inside Airbnb** data:
@@ -464,15 +436,12 @@ Use the **page navigation tabs** at the bottom to switch between dashboard pages
 
 ## 🔧 Troubleshooting
 
-| Problem                      | Quick Fix                                                                                      |
-| ---------------------------- | ---------------------------------------------------------------------------------------------- |
-| `.pbix` won't open           | Ensure Power BI Desktop is updated to the latest version                                       |
-| Data refresh fails           | Check that `data/processed/airbnb_global_clean.csv` exists and the path in Power Query matches |
-| Visuals show blank           | Click **Home → Refresh** — data may not have loaded on open                                    |
-| Python script errors         | Run `pip install pandas numpy` and verify Python 3.9+ is active                                |
-| Ratings table not filtering  | Check that the City slicer is set to "All" — a hidden filter may be active                     |
-| Report opens in Reading View | Click **Edit** in the top bar to enter editing mode                                            |
-| Cumulative % line missing    | Verify the `dim_city` sort order is by Total Listings descending                               |
+| Problem                      | Quick Fix                                                                  |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| `.pbix` won't open           | Ensure Power BI Desktop is updated to the latest version                   |
+| Visuals show blank           | Click **Home → Refresh** — data may not have loaded on open                |
+| Ratings table not filtering  | Check that the City slicer is set to "All" — a hidden filter may be active |
+| Report opens in Reading View | Click **Edit** in the top bar to enter editing mode                        |
 
 ---
 
