@@ -429,7 +429,7 @@ Contributions are welcome — whether that's new patient data, additional DAX me
 </p>
 
 <p align="center">
-  <a href="https://github.com/saumyaprajapti/Projects---1/issues">Report Bug</a>
+  <a href="https://github.com/saumyaprajapati/Projects---1/issues">Report Bug</a>
   ·
   <a href="https://github.com/saumyaprajapati/Projects---1/issues">Request Feature</a>
 </p>
