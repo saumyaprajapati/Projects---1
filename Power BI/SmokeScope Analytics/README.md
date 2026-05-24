@@ -22,29 +22,27 @@
   <img src="https://img.shields.io/badge/patients-193%2B-E74C3C?style=flat" alt="Patients">
   &nbsp;
   <img src="https://img.shields.io/badge/avg%20age-54.9-E74C3C?style=flat" alt="Avg Age">
-  &nbsp;
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/saumyaprajapati/smoke-scope-analysis">
-    <img src="https://img.shields.io/github/last-commit/saumyaprajapati/smoke-scope-analysis?style=flat-square&label=last%20commit" alt="Last Commit">
+  <a href="https://github.com/saumyaprajapati/Projects---1">
+    <img src="https://img.shields.io/github/last-commit/saumyaprajapati/Projects---1?style=flat-square&label=last%20commit" alt="Last Commit">
   </a>
   &nbsp;
-  <a href="https://github.com/saumyaprajapati/smoke-scope-analysis">
-    <img src="https://img.shields.io/github/repo-size/saumyaprajapati/smoke-scope-analysis?style=flat-square&label=repo%20size" alt="Repo Size">
+  <a href="https://github.com/saumyaprajapati/Projects---1">
+    <img src="https://img.shields.io/github/repo-size/saumyaprajapati/Projects---1?style=flat-square&label=repo%20size" alt="Repo Size">
   </a>
   &nbsp;
-  <a href="https://github.com/saumyaprajapati/smoke-scope-analysis/stargazers">
-    <img src="https://img.shields.io/github/stars/saumyaprajapati/smoke-scope-analysis?style=flat-square" alt="Stars">
+  <a href="https://github.com/saumyaprajapati/Projects---1/stargazers">
+    <img src="https://img.shields.io/github/stars/saumyaprajapati/Projects---1?style=flat-square" alt="Stars">
   </a>
   &nbsp;
-  <a href="https://github.com/saumyaprajapati/smoke-scope-analysis/network/members">
-    <img src="https://img.shields.io/github/forks/saumyaprajapati/smoke-scope-analysis?style=flat-square" alt="Forks">
+  <a href="https://github.com/saumyaprajapati/Projects---1/network/members">
+    <img src="https://img.shields.io/github/forks/saumyaprajapati/Projects---1?style=flat-square" alt="Forks">
   </a>
   &nbsp;
-  <a href="https://github.com/saumyaprajapati/smoke-scope-analysis/issues">
-    <img src="https://img.shields.io/github/issues/saumyaprajapati/smoke-scope-analysis?style=flat-square" alt="Issues">
+  <a href="https://github.com/saumyaprajapati/Projects---1/issues">
+    <img src="https://img.shields.io/github/issues/saumyaprajapati/Projects---1?style=flat-square" alt="Issues">
   </a>
 </p>
 
@@ -85,7 +83,6 @@ Get the dashboard running in under 3 minutes:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/saumyaprajapati/Projects---1.git
-cd SomkeScope Analytics
 
 # 2. Open the Power BI file
 #    Requires: Power BI Desktop (free download from Microsoft)
@@ -293,7 +290,7 @@ SWITCH(
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/saumyaprajapati/smoke-scope-analysis.git
+git clone https://github.com/saumyaprajapati/Projects---1.git
 ```
 
 ### Step 2: Open the Report
@@ -432,9 +429,9 @@ Contributions are welcome — whether that's new patient data, additional DAX me
 </p>
 
 <p align="center">
-  <a href="https://github.com/saumyaprajapti/smoke-scope-analysis/issues">Report Bug</a>
+  <a href="https://github.com/saumyaprajapti/Projects---1/issues">Report Bug</a>
   ·
-  <a href="https://github.com/saumyaprajapati/smoke-scope-analysis/issues">Request Feature</a>
+  <a href="https://github.com/saumyaprajapati/Projects---1/issues">Request Feature</a>
 </p>
 
 ---
