@@ -27,33 +27,36 @@
   &nbsp;
   <img src="https://img.shields.io/badge/data%20range-2019--2022-6F42C1?style=flat" alt="Data Range">
   &nbsp;
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/coffee-sales-dashboard">
+  <a href="https://github.com/saumyaprajapati/coffee-sales-dashboard">
     <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square&label=last%20commit" alt="Last Commit">
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/coffee-sales-dashboard">
-    <img src="https://img.shields.io/github/repo-size/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square&label=repo%20size" alt="Repo Size">
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/coffee-sales-dashboard/stargazers">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square" alt="Stars">
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/coffee-sales-dashboard/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square" alt="Forks">
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/coffee-sales-dashboard/issues">
-    <img src="https://img.shields.io/github/issues/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square" alt="Issues">
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/coffee-sales-dashboard/pulls">
-    <img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square" alt="Pull Requests">
-  </a>
+<a href="https://github.com/saumyaprajapati/Projects---1">
+  <img src="https://img.shields.io/github/repo-size/saumyaprajapati/Projects---1?style=flat-square&label=repo%20size" alt="Repo Size">
+</a>
+&nbsp;
+<a href="https://github.com/saumyaprajapati/Projects---1/stargazers">
+  <img src="https://img.shields.io/github/stars/saumyaprajapati/Projects---1?style=flat-square" alt="Stars">
+</a>
+
+&nbsp;
+<a href="https://github.com/saumyaprajapati/Projects---1/network/members">
+<img src="https://img.shields.io/github/forks/saumyaprajapati/Projects---1?style=flat-square" alt="Forks">
+</a>
+
+&nbsp;
+<a href="https://github.com/saumyaprajapati/Projects---1/issues">
+<img src="https://img.shields.io/github/issues/saumyaprajapati/Projects---1?style=flat-square" alt="Issues">
+</a>
+
+&nbsp;
+<a href="https://github.com/saumyaprajapati/Projects---1/pulls">
+<img src="https://img.shields.io/github/issues-pr/saumyaprajapati/Projects---1?style=flat-square" alt="Pull Requests">
+</a>
+
 </p>
 
 ---
@@ -87,7 +90,6 @@
 - [Contributing](#-contributing)
 - [Authors](#-authors)
 - [Acknowledgments](#-acknowledgments)
-- [License](#-license)
 
 ---
 
@@ -555,9 +557,9 @@ Contributions are welcome — whether that's new sales data, additional Excel fo
 </p>
 
 <p align="center">
-  <a href="https://github.com/saumyaprajapati/coffee-sales-dashboard/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/saumyaprajapati/coffee-sales-dashboard/issues">Request Feature</a>
+<a href="https://github.com/saumyaprajapati/Projects---1/issues">Report Bug</a>
+·
+<a href="https://github.com/saumyaprajapati/Projects---1/issues">Request Feature</a>
 </p>
 
 ---
