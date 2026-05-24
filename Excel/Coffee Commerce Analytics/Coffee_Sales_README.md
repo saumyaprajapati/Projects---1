@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/saumyaprajapati/coffee-sales-dashboard">
-    <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/coffee-sales-dashboard?style=flat-square&label=last%20commit" alt="Last Commit">
+  <a href="https://github.com/saumyaprajapati/Projects---1">
+    <img src="https://img.shields.io/github/last-commit/saumyaprajapati/Projects---1?style=flat-square&label=last%20commit" alt="Last Commit">
   </a>
   &nbsp;
 <a href="https://github.com/saumyaprajapati/Projects---1">
@@ -41,22 +41,18 @@
 <a href="https://github.com/saumyaprajapati/Projects---1/stargazers">
   <img src="https://img.shields.io/github/stars/saumyaprajapati/Projects---1?style=flat-square" alt="Stars">
 </a>
-
 &nbsp;
 <a href="https://github.com/saumyaprajapati/Projects---1/network/members">
 <img src="https://img.shields.io/github/forks/saumyaprajapati/Projects---1?style=flat-square" alt="Forks">
 </a>
-
 &nbsp;
 <a href="https://github.com/saumyaprajapati/Projects---1/issues">
 <img src="https://img.shields.io/github/issues/saumyaprajapati/Projects---1?style=flat-square" alt="Issues">
 </a>
-
 &nbsp;
 <a href="https://github.com/saumyaprajapati/Projects---1/pulls">
 <img src="https://img.shields.io/github/issues-pr/saumyaprajapati/Projects---1?style=flat-square" alt="Pull Requests">
 </a>
-
 </p>
 
 ---
